@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marxinal
-- 👀 I’m interested in Big Data Analysis, Machine Learning, and AI 
+- 👀 I’m interested in Big Data Analysis, Machine Learning, AI, and Data Science in general
 - 🌱 I’m currently improving my knowledge in Deep Learning in Python and Neural Network Analysis 
-- 💞️ I’m looking to collaborate on music, movie and other art-form data
+- 💞️ I’m looking to collaborate on music and movie-related data analyses 
 - 📫 Feel free to reach out to me here 
 
 <!---
