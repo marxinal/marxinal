@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marxinal and my real name is Jelena Kalinic
-- 👀 I’m interested in Big Data Analysis, Machine Learning, AI, and Data Science in general
+- 👀 I’m interested in AI, ML and Humans! 
 - 📫 Feel free to reach out to me using jelena.kalinic05@gmail.com
 
 <!---
